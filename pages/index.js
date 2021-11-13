@@ -6,7 +6,10 @@ let animals = [
     {name: "Tootles", birthdate: "07/08/2019"},
     {name:"Dolly Carton, Princess Layer, Imma, Katniss", birthdate:"07/17/2021"},
     {name:"Nada, Salt, Pepper, Black Widow, Bell, Turkey", birthdate:"08/04/2021"},
-    {name:"Todo", birthdate:"06/01/2021"}
+    {name:"Todo", birthdate:"06/01/2021"},
+    {name:"Marble", birthdate: "06/01/2021"},
+    {name:"Lava", birthdate: "07/15/2021"},
+    {name: "Morty", birthdate: "07/21/2021"}
 ]
     
 
@@ -20,6 +23,7 @@ if(weeks>52){
     let years = Math.floor(weeks/52);
     return `${years.toString()} Years old`
 }else {
+   
     return `${weeks.toString()} weeks old`;
 }
 
