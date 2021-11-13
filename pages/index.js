@@ -5,8 +5,8 @@ let animals = [
     {name: "BunBun, Silly Goose, Sunshine, Mustard", birthdate:"04/08/2021"},
     {name: "Tootles", birthdate: "07/08/2019"},
     {name:"Dolly Carton, Princess Layer, Imma, Katniss", birthdate:"07/17/2021"},
-    {name:"Nada, Salt, Pepper, Black Widow, Bell, Turkey", birthdate:"07/04/2021"},
-    
+    {name:"Nada, Salt, Pepper, Black Widow, Bell, Turkey", birthdate:"08/04/2021"},
+    {name:"Todo", birthdate:"06/01/2021"}
 ]
     
 
