@@ -7,7 +7,7 @@ let animals = [
     {name:"Dolly Carton, Princess Layer, Imma, Katniss", birthdate:"07/17/2021"},
     {name:"Nada, Salt, Pepper, Black Widow, Bell, Turkey", birthdate:"08/04/2021"},
     {name:"Todo", birthdate:"06/01/2021"},
-    {name:"Marble test", birthdate: "06/01/2021"},
+    {name:"Marble", birthdate: "06/01/2021"},
     {name:"Lava", birthdate: "07/15/2021"},
     {name: "Morty", birthdate: "07/21/2021"}
 ]
