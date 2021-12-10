@@ -1,4 +1,3 @@
-import { getPosts } from '@lib/firebase';
 let zoey = new Date("09/22/2017")
 let chick1 = new Date("04/08/2021")
 let animals = [
